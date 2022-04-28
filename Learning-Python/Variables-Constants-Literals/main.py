@@ -49,6 +49,7 @@ print("y is", boolean.y)
 print("a:", boolean.a)
 print("b:", boolean.b)
 
+# Literals Collection in Python
 print(literal_collection.fruits)
 print(literal_collection.numbers)
 print(literal_collection.alphabets)
